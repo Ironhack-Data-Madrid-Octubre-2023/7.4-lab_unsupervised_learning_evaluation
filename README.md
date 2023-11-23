@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Unsupervised Learning Model Evaluation
-
+...
 ## Introduction
 
 In the Unsupervised Learning Model Evaluation lesson, we learned about different ways to evaluate unsupervised machine learning models. This lab is designed to help you practice the concepts covered in the lesson and solidify your ability to analyze the results of unsupervised models.
