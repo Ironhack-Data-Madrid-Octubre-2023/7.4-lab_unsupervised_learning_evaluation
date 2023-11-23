@@ -4,6 +4,7 @@
 
 ## Introduction
 
+
 In the Unsupervised Learning Model Evaluation lesson, we learned about different ways to evaluate unsupervised machine learning models. This lab is designed to help you practice the concepts covered in the lesson and solidify your ability to analyze the results of unsupervised models.
 
 ## Getting Started
