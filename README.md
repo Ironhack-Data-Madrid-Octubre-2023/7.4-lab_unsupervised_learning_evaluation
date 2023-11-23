@@ -24,4 +24,4 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 - [Scikit-Learn Clustering Performance Documentation](https://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation)
 - [Yellowbrick Clustering Visualizers](https://www.scikit-yb.org/en/latest/api/cluster/)
 
-cambio
+cambio.
